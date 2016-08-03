@@ -1,0 +1,14 @@
+layout_spectrum: 0.8069502527359873
+typography_spectrum: 0.3608965058811009
+color:
+  brandStrength: 0.9897338496521115
+  lightness: 0.946234090719372
+  saturation: 0.7636178624816239
+  rhythmicContrast: 0.16376760695129633
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: SpinOnThese
