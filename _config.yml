@@ -6,9 +6,10 @@ color:
   saturation: 0.7636178624816239
   rhythmicContrast: 0.16376760695129633
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: SpinOnThese
+title: Are You Ready?
