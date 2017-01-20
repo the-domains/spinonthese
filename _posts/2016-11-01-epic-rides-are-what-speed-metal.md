@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-20T17:52:04.139Z'
+datePublished: '2017-01-20T17:52:15.460Z'
 sourcePath: _posts/2016-11-01-epic-rides-are-what-speed-metal.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-20T17:52:03.706Z'
+dateModified: '2017-01-20T17:52:14.838Z'
 title: Ride the road less travelled
 publisher: {}
 description: ''
@@ -18,4 +18,4 @@ _type: Article
 
 # Ride the road less travelled
 
-## It's what you and your Custom Speed Metal were made for
+## It's what you and your very own Custom Speed Metal were made for
