@@ -1,16 +1,43 @@
-typography_spectrum: 0.3608965058811009
+typography_spectrum: 0.8929703103821947
 color:
-  brandStrength: 0.9897338496521115
-  lightness: 0.946234090719372
-  saturation: 0.7636178624816239
-  rhythmicContrast: 0.16376760695129633
+  brandStrength: 0.025255885901722577
+  lightness: 1
+  saturation: 0.6196940963003452
+  rhythmicContrast: 0.2927824358548969
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.8069502527359873
-name: SpinOnThese
-title: Ready To Ride Faster?
-description: It's time to Spin On These!
+layout_spectrum: 0.9744671129112565
+author:
+  name: The Spin Meister
+  email: d@ridefullgas.com
+  url: 'http://ridefullgas.com/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0474854e-d8c4-4b54-9970-89d2a4d12659.png
+name: Speed Metal Custom
+navigation:
+  - name: Custom Bikes
+    id: 8ccc5dd4-50c8-41ac-baaa-8c39c10aa268
+    type: content
+  - name: News
+    url: 'http://spinonthese.com/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
+title: Titanium bike. Custom made.
+content: []
+coverPrefs:
+  filter: false
+description: >-
+  Speed Metal is custom crafted titanium made perfect for you and no other
+  rider. From drawing board to your ultimate N+1 in as little as 6 weeks.
+purpose:
+  - type: external
+    url: 'http://ridefullgas.com/custom-titanium/'
+    label: Start Building Your Dream
+github: true
+analytics:
+  google: UA-31654273-4
