@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-20T20:36:59.831Z'
+datePublished: '2017-01-20T20:41:32.961Z'
 sourcePath: _posts/2016-11-01-spinonthese-roadslikethese.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-20T20:36:58.268Z'
+dateModified: '2017-01-20T20:41:32.529Z'
 title: '#spinonthese #AwesomeAutumn'
 publisher: {}
 description: ''
