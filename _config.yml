@@ -40,7 +40,7 @@ purpose:
     label: Ready to build your dream? Call me!
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
-    label: Contact me
+    label: Mail me!
 github: true
 analytics:
   google: UA-31654273-4
