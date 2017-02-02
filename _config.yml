@@ -35,9 +35,9 @@ description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
   rider. From drawing board to your ultimate N+1 in as little as 6 weeks.
 purpose:
-  - type: external
-    url: 'http://ridefullgas.com/custom-titanium/'
-    label: Start Building Your Dream
+  - type: phone
+    url: 'tel:+441789459193'
+    label: Ready to build your dream? Call me!
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
     label: Contact me
