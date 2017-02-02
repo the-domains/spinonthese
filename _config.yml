@@ -38,6 +38,9 @@ purpose:
   - type: external
     url: 'http://ridefullgas.com/custom-titanium/'
     label: Start Building Your Dream
+  - type: contact
+    url: 'mailto:spinfo@ridefullgas.com'
+    label: Contact me
 github: true
 analytics:
   google: UA-31654273-4
