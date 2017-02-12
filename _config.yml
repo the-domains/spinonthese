@@ -22,9 +22,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86a2e68-6b8d-4e6b-86af-ac77bebbb034.png
 name: Speed Metal Custom
 navigation:
-  - name: Custom Bikes
-    id: 8ccc5dd4-50c8-41ac-baaa-8c39c10aa268
-    type: content
   - name: News
     url: 'http://spinonthese.com/'
     type: external
