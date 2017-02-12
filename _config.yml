@@ -31,6 +31,9 @@ navigation:
   - name: Custom Wheels
     url: 'http://spinonthese.com/hey-fatboy'
     type: external
+  - name: Shop
+    url: 'http://ridefullgas.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
