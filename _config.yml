@@ -1,17 +1,19 @@
-typography_spectrum: 0.8929703103821947
+layout_spectrum: 0.754928549267536
+typography_spectrum: 0.024953485321124444
 color:
-  brandStrength: 0.025255885901722577
-  lightness: 1
-  saturation: 0.6196940963003452
-  rhythmicContrast: 0.2927824358548969
+  brandStrength: 0.2402529585692515
+  lightness: 0.6090710809316007
+  saturation: 0.6479183933085365
+  rhythmicContrast: 0.5743688156356168
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.9744671129112565
 analytics:
   google: UA-31654273-4
 author:
@@ -38,8 +40,6 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
 content: []
-coverPrefs:
-  filter: false
 description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
   rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Ready
