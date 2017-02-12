@@ -10,7 +10,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+github: true
 layout_spectrum: 0.9744671129112565
+analytics:
+  google: UA-31654273-4
 author:
   name: The Spin Meister
   email: d@ridefullgas.com
@@ -24,6 +27,9 @@ navigation:
     type: content
   - name: News
     url: 'http://spinonthese.com/'
+    type: external
+  - name: Custom Wheels
+    url: 'http://spinonthese.com/hey-fatboy'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
@@ -42,6 +48,3 @@ purpose:
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
     label: Mail me!
-github: true
-analytics:
-  google: UA-31654273-4
