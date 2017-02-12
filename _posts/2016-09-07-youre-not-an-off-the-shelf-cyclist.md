@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-20T20:37:00.354Z'
+datePublished: '2017-02-12T20:01:58.469Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-20T20:36:58.268Z'
+dateModified: '2017-02-12T20:01:52.389Z'
 title: You are not an off-the-shelf cyclist!
 publisher: {}
 description: >-
