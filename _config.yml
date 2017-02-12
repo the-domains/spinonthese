@@ -37,6 +37,9 @@ navigation:
   - name: Lightning Gravel GX-1
     id: fe1a8c66-3328-4d0f-bb43-da709973d1af
     type: content
+  - name: Lightning Road X-1
+    id: 416601c8-a81d-42fe-908a-e325fc309124
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
