@@ -34,7 +34,7 @@ navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
-  - name: Lightning GX-1
+  - name: Lightning Gravel
     id: fe1a8c66-3328-4d0f-bb43-da709973d1af
     type: content
 favicon: >-
