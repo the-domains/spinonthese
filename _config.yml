@@ -1,4 +1,3 @@
-layout_spectrum: 0.754928549267536
 typography_spectrum: 0.024953485321124444
 color:
   brandStrength: 0.2402529585692515
@@ -11,9 +10,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.754928549267536
 analytics:
   google: UA-31654273-4
 author:
@@ -36,10 +34,15 @@ navigation:
   - name: Shop
     url: 'http://ridefullgas.com/'
     type: external
+  - name: Lightning GX-1
+    id: fe1a8c66-3328-4d0f-bb43-da709973d1af
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
 content: []
+coverPrefs:
+  filter: false
 description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
   rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Ready
