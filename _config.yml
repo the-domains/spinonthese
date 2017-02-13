@@ -1,17 +1,19 @@
-typography_spectrum: 0.024953485321124444
+layout_spectrum: 0.5302885992860071
+typography_spectrum: 0.021139053355644245
 color:
-  brandStrength: 0.2402529585692515
-  lightness: 0.6090710809316007
-  saturation: 0.6479183933085365
-  rhythmicContrast: 0.5743688156356168
+  brandStrength: 0.26384129471108686
+  lightness: 0.20367889330851488
+  saturation: 0.379808146120464
+  rhythmicContrast: 0.9115784725062733
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.754928549267536
 analytics:
   google: UA-31654273-4
 author:
@@ -58,7 +60,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -66,8 +67,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
   rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Ready
