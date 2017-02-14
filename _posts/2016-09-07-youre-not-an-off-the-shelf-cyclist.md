@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:19:05.758Z'
+datePublished: '2017-02-14T17:19:56.208Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:19:05.125Z'
+dateModified: '2017-02-14T17:19:55.692Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -43,5 +43,7 @@ And often, you'll have to wait quite a while to get your first ride on it, depen
 
 On average, our custom frames go from drawing board to your first ride in 6-8 weeks.
 [So what are you waiting for?][0]
+
+Give me a call or send me an email today and we'll get your best bike out of your mind and onto my drawing board. 
 
 [0]: http://ridefullgas.com/custom-titanium/
