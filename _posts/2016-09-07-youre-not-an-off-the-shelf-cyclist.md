@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T20:08:31.585Z'
+datePublished: '2017-02-14T20:09:19.017Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T20:08:30.907Z'
+dateModified: '2017-02-14T20:09:18.585Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -32,7 +32,7 @@ No, I'm talking nothing less than a frame with every tube length precision cut a
 
 In fact, it's the exact opposite of bike shop custom. We make the bike fit you instead of forcing you to fit the bike. The result is no more compromise & endless tweaking your bar height, hood tilt, saddle this way and that. Just perfect fit.
 
-Oh, and one more thing: effortless, confident, precise handling. No more _**speed wobble**_, or _**guessing**_ how much grip you'll have in that next corner. Why?
+Oh, and one more thing: effortless, confident, precise handling. No more _**speed wobble**_, or _**guessing**_ how much grip you'll have in that next corner. Why is that?
 
 Because with a frame engineered for you, your centre of gravity now resides as close to the perfect place as possible: low down and deep within the wheelbase, with enough of your weight pressing down both front and rear wheels for neutral, telepathic handling. All you need to steer that bike is _**think**_ and your bike takes you there.
 
