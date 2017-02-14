@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:05:24.859Z'
+datePublished: '2017-02-14T17:10:50.246Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:05:23.969Z'
+dateModified: '2017-02-14T17:10:49.669Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -29,6 +29,10 @@ I'm not talking bike shop "custom". Take a stock frame and let you choose the br
 
 No, I'm talking nothing less than a frame with every tube length precision cut and mitred to the millimetre. With every angle, every tube diameter and shape carefully considered and chosen to optimise the ride for you, and the way you ride. 
 
-The feeling of riding a bike where your frame fits you like the proverbial glove will delight - mentally and physically. 
+The feeling of riding a bike where your frame fits you like the proverbial glove will delight - mentally and physically. No more compromise or endless tweaking your bar height, hood tilt, saddle this way and that. Just perfect fit and effortless, confident precise handling. 
+
+No more _**speed wobble**_, or _**guessing**_ how much grip you'll have in that next corner. Why? Because with a frame engineered for you, your centre of gravity now resides as close to the perfect place as possible: low down and deep within the wheelbase, with enough of your weight pressing down both front and rear wheels for neutral, telepathic handling that you barely need to think about. 
+
+Your bike becomes the perfect connection between you and the road, the trail, or the boards. 
 
 The cost, and the fast build times may also pleasantly surprise you too!
