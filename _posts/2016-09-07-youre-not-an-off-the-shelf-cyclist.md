@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:33:50.912Z'
+datePublished: '2017-02-14T17:35:08.121Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:33:50.181Z'
+dateModified: '2017-02-14T17:35:07.232Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -40,7 +40,7 @@ That's what good frame design is all about - by matching lengths, tubes and geom
 
 All of this sounds expensive. And I won't claim this will be the cheapest bike you can acquire. Only the best.
 
-In fact, with my custom titanium frames starting at **£1995**, you could go out and spend far more on a famous brand off-the-shelf bike - that will be out of date in 9 months when the replacement model is unveiled.
+In fact, with my custom titanium frames starting at **£1995**, you could go out and spend far more on a famous brand off-the-shelf bike - that will be out of date in 9 months when the replacement model is unveiled. Your Speed Metal Custom will not only fit you perfectly and make your rides more fun and less wearing, 
 
 And often, you'll have to wait quite a while to get your first ride on it, depending on when "your size" comes back into stock.
 
