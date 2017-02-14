@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-02-14T15:59:55.437Z'
+datePublished: '2017-02-14T16:00:19.847Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-14T15:59:54.274Z'
+dateModified: '2017-02-14T16:00:19.291Z'
 title: '#flatmount #thruaxle custom fabricated disc caliper solution'
 publisher: {}
 description: ''
@@ -16,5 +16,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9344b838-5737-442e-b658-96eb08385676.jpg)
-
-# \#flatmount \#thruaxle custom fabricated disc caliper solution
