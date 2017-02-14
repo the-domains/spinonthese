@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:18:49.369Z'
+datePublished: '2017-02-14T17:19:05.758Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:18:48.207Z'
+dateModified: '2017-02-14T17:19:05.125Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ That's what good frame design is all about -through sizing and geometry, optimis
 
 All of this sounds expensive. And I won't claim this will be the cheapest bike you can acquire. Only the best. 
 
-In fact, with my custom titanium frames starting at £1995, you could go out and spend far more on a famous brand off-the-shelf bike - that will be out of date in 9 months when the replacement model is unveiled. 
+In fact, with my custom titanium frames starting at **£1995**, you could go out and spend far more on a famous brand off-the-shelf bike - that will be out of date in 9 months when the replacement model is unveiled. 
 
 And often, you'll have to wait quite a while to get your first ride on it, depending on when "your size" comes back into stock. 
 
