@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:02:50.532Z'
+datePublished: '2017-02-14T17:05:24.859Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:02:49.773Z'
+dateModified: '2017-02-14T17:05:23.969Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -25,8 +25,10 @@ _type: Article
 
 So why are you still riding an off-the-shelf bike? You know, one that was designed and sized for Mr / Ms Average? Life's too short to ride rubbish bikes. Especially when you could be heading out for a spin on nothing less than bespoke, made just-for-you and no-one else, full custom.
 
-I'm not talking bike shop "custom". Take a stock frame and let you choose the brake calipers and bar width kind of custom. Trying, mostly in vain, to fit you to a ready made bike. 
+I'm not talking bike shop "custom". Take a stock frame and let you choose the brake calipers and gears, maybe the stem and bar width kind of custom. Trying - mostly in vain - to fit you to a bike made for nobody in particular. 
 
-No, I'm talking nothing less than a frame with every tube length precision cut and mitred to the mm. With every angle, every tube diameter and shape considered in order to optimise the ride for you, and the way you ride. 
+No, I'm talking nothing less than a frame with every tube length precision cut and mitred to the millimetre. With every angle, every tube diameter and shape carefully considered and chosen to optimise the ride for you, and the way you ride. 
 
-The advantages of riding a bike where your frame fits you like the proverbial glove has been crafted specifically and uniquely for you and not someone else will delight. The cost, and the fast build times may also pleasantly surprise you too!
+The feeling of riding a bike where your frame fits you like the proverbial glove will delight - mentally and physically. 
+
+The cost, and the fast build times may also pleasantly surprise you too!
