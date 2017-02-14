@@ -1,17 +1,17 @@
 ---
-datePublished: '2017-02-14T09:03:43.361Z'
-sourcePath: _posts/2016-11-01-spinonthese-roadslikethese.md
+datePublished: '2017-02-14T09:04:17.181Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-14T09:03:42.425Z'
+dateModified: '2017-02-14T09:04:16.056Z'
 title: ''
 publisher: {}
 description: ''
+sourcePath: _posts/2016-11-01-spinonthese-roadslikethese.md
 starred: false
-datePublishedOriginal: '2016-11-03T20:07:41.367Z'
+datePublishedOriginal: '2016-11-03T20:07:41.343Z'
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb03203-0fa4-4cb8-a149-a4ac2b5fc360.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0df360b-6f5d-45bf-8734-477e1f255246.jpg)
