@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T17:29:56.049Z'
+datePublished: '2017-02-14T17:33:50.912Z'
 sourcePath: _posts/2016-09-07-youre-not-an-off-the-shelf-cyclist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-14T17:29:55.416Z'
+dateModified: '2017-02-14T17:33:50.181Z'
 title: You are not an off-the-shelf human!
 publisher: {}
 description: >-
@@ -34,9 +34,9 @@ In fact, it's the exact opposite of bike shop custom. We make the bike fit you i
 
 Oh, and one more thing: effortless, confident, precise handling. No more _**speed wobble**_, or _**guessing**_ how much grip you'll have in that next corner. Why? 
 
-Because with a frame engineered for you, your centre of gravity now resides as close to the perfect place as possible: low down and deep within the wheelbase, with enough of your weight pressing down both front and rear wheels for neutral, telepathic handling that you barely need to think about.
+Because with a frame engineered for you, your centre of gravity now resides as close to the perfect place as possible: low down and deep within the wheelbase, with enough of your weight pressing down both front and rear wheels for neutral, telepathic handling. All you need to steer that bike is _**think**_ and your bike takes you there. 
 
-That's what good frame design is all about -through sizing and geometry, optimising the dynamics of the rider. Your bike becomes the perfect connection between you and the road, the trail, or the boards.
+That's what good frame design is all about - by matching lengths, tubes and geometry to you, it's possible to optimise and influence the dynamics of your ride. Your bike becomes the perfect connection between you and the road, the trail, or the boards. And that's its entire purpose.
 
 All of this sounds expensive. And I won't claim this will be the cheapest bike you can acquire. Only the best.
 
