@@ -69,8 +69,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
-  rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Ready
-  to build your dream ride? Let's get talking!
+  rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Use
+  these buttons to give me a call or send me mail and let's get your best bike
+  ever out of your head and onto my drawing board.
 purpose:
   - type: phone
     url: 'tel:+441789459193'
