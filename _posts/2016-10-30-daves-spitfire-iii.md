@@ -1,19 +1,19 @@
 ---
-datePublished: '2017-02-15T19:58:42.409Z'
+datePublished: '2017-02-15T19:58:42.458Z'
 sourcePath: _posts/2016-10-30-daves-spitfire-iii.md
 inFeed: true
 author: []
 via: {}
 dateModified: '2017-02-15T19:58:38.498Z'
-title: 'Dave’s Spitfire spins on these custom Fat Boys '
+title: Dave rides classic DA9000 & Open Paves
 publisher: {}
 description: ''
 starred: false
-datePublishedOriginal: '2016-11-03T20:07:41.342Z'
+datePublishedOriginal: '2016-11-03T20:07:41.367Z'
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d37f7e32-a7db-43e1-ae2c-aea63cd979bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b62e4d7-eb9a-4e51-9d41-aa59543ae236.jpg)
 
-# Dave's Spitfire spins on these custom Fat Boys
+# Dave rides classic DA9000 & Open Paves
