@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-15T19:51:13.457Z'
-datePublished: '2017-02-15T19:51:14.033Z'
-title: Phil's custom Spitfire with fender mounts & radial seat stays
+dateModified: '2017-02-15T19:56:50.093Z'
+datePublished: '2017-02-15T19:56:50.532Z'
+title: 'Phil''s custom Spitfire with fender mounts, big tyres & radial stays'
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-02-15T19:51:14.033Z'
 sourcePath: >-
   _posts/2017-02-15-phils-custom-spitfire-with-fender-mounts-and-radial-seat-stay.md
+starred: false
+datePublishedOriginal: '2017-02-15T19:51:14.033Z'
 _type: Blurb
 
 ---
