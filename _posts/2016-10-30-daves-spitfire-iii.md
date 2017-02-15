@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-14T16:53:15.046Z'
+datePublished: '2017-02-15T19:58:42.409Z'
 sourcePath: _posts/2016-10-30-daves-spitfire-iii.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-14T16:53:11.619Z'
+dateModified: '2017-02-15T19:58:38.498Z'
 title: 'Dave’s Spitfire spins on these custom Fat Boys '
 publisher: {}
 description: ''
