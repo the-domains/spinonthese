@@ -1,9 +1,11 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-15T20:02:04.683Z'
-datePublished: '2017-02-15T20:02:11.870Z'
-title: 'Phil''s custom Spitfire with fender mounts, big tyres & radial stays'
+dateModified: '2017-02-16T18:07:58.548Z'
+datePublished: '2017-02-16T18:07:59.173Z'
+title: >-
+  Custom Spitfire with fender mounts & radial stays, made to clear big fat
+  winter tyres
 author: []
 publisher: {}
 via: {}
