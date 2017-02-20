@@ -47,9 +47,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-20T16:51:21.304Z'
-dateModified: '2017-02-20T16:51:15.630Z'
-title: ''
+datePublished: '2017-02-20T16:54:24.279Z'
+dateModified: '2017-02-20T16:54:23.778Z'
+title: 'Fourth consecutive euro road season on the same #SpeedMetal bike'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -60,6 +60,9 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
+# Fourth consecutive euro road season on the same \#SpeedMetal bike
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87305544-9e67-4199-83e4-3e749226fd2b.jpg)
+
+## Good luck with that on a carbon bike!
 
 > Fun training race with the men today. Felt great to be in the moves mixing it with the ex pros. Can't wait to put the race wheels in nxt wk!
