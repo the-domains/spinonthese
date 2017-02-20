@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-20T16:32:36.964Z'
+datePublished: '2017-02-20T16:44:42.439Z'
 sourcePath: >-
   _posts/2016-09-14-dani-christmas-spins-her-fatboys-up-the-muur-at-the-2016-lo.md
 inFeed: true
@@ -43,7 +43,7 @@ author:
           - 209
           - 214
 via: {}
-dateModified: '2017-02-20T16:32:31.493Z'
+dateModified: '2017-02-20T16:44:41.602Z'
 title: >-
   Flanders road champ Dani Christmas spins her #SpeedMetal up the Muur at the
   2016 Lotto Belgium Tour
@@ -54,7 +54,7 @@ app_links:
     namespace: google
     type: android
 publisher: {}
-description: '@Dani_Christmas ... But this one is for you. Enjoy !'
+description: ''
 inLanguage: en
 starred: false
 datePublishedOriginal: '2017-02-20T16:28:55.051Z'
@@ -63,4 +63,4 @@ _type: Photograph
 
 ---
 # Flanders road champ Dani Christmas spins her \#SpeedMetal up the Muur at the 2016 Lotto Belgium Tour
-![@Dani_Christmas ... But this one is for you. Enjoy !](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d91fb314ddf84c9e072afa05b1f1caa7569608ff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d45ed7-abe3-46cf-8da4-5f3d5d0fa5b6.jpg)
