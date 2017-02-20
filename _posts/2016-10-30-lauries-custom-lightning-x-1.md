@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-15T20:02:11.946Z'
+datePublished: '2017-02-20T16:30:27.943Z'
 sourcePath: _posts/2016-10-30-lauries-custom-lightning-x-1.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-15T20:02:04.683Z'
+dateModified: '2017-02-20T16:30:21.458Z'
 title: 'Laurie on his custom experience '
 publisher: {}
 description: If you are reading this it means you're looking for that special bike…
