@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-20T16:54:24.279Z'
-dateModified: '2017-02-20T16:54:23.778Z'
+datePublished: '2017-02-20T16:59:05.791Z'
+dateModified: '2017-02-20T16:59:02.423Z'
 title: 'Fourth consecutive euro road season on the same #SpeedMetal bike'
 via: {}
 inFeed: true
