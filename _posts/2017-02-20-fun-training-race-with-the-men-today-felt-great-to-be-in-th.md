@@ -47,15 +47,15 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-20T16:39:32.208Z'
-dateModified: '2017-02-20T16:39:32.053Z'
+datePublished: '2017-02-20T16:51:21.304Z'
+dateModified: '2017-02-20T16:51:15.630Z'
 title: ''
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-02-20-fun-training-race-with-the-men-today-felt-great-to-be-in-th.md
-datePublishedOriginal: '2017-02-20T16:39:32.208Z'
 starred: false
+datePublishedOriginal: '2017-02-20T16:39:32.208Z'
 _type: Comment
 _context: 'http://schema.org'
 
