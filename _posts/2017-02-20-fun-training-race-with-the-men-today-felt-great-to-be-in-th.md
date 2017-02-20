@@ -47,9 +47,11 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2017-02-20T16:59:05.791Z'
-dateModified: '2017-02-20T16:59:02.423Z'
-title: 'Fourth consecutive euro road season on the same #SpeedMetal bike'
+datePublished: '2017-02-20T18:11:08.250Z'
+dateModified: '2017-02-20T18:11:07.580Z'
+title: >-
+  Fourth consecutive euro road season riding the same bike… it has to be
+  #SpeedMetal 
 via: {}
 inFeed: true
 sourcePath: >-
@@ -60,8 +62,7 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-# Fourth consecutive euro road season on the same \#SpeedMetal bike
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87305544-9e67-4199-83e4-3e749226fd2b.jpg)
+# Fourth consecutive euro road season riding the same bike... it has to be \#SpeedMetal ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87305544-9e67-4199-83e4-3e749226fd2b.jpg)
 
 ## Good luck with that on a carbon bike!
 
