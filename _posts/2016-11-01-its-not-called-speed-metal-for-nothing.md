@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-20T16:30:27.737Z'
+datePublished: '2017-02-20T16:32:40.318Z'
 sourcePath: _posts/2016-11-01-its-not-called-speed-metal-for-nothing.md
 inFeed: true
 isBasedOnUrl: 'http://ridefullgas.com/lightning-x-1-custom-speed-metal-titanium-frame/'
 author: []
 via: {}
-dateModified: '2017-02-20T16:30:21.458Z'
+dateModified: '2017-02-20T16:32:31.493Z'
 title: 'Laurie T, certified Lightning X-1 pilot'
 publisher: {}
 description: '...it''s not called speed metal for nothing! '
