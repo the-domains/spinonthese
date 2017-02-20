@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-20T16:51:18.652Z'
+datePublished: '2017-02-20T16:59:06.238Z'
 sourcePath: >-
   _posts/2016-11-01-tame-race-driver-chris-dymonds-custom-lightning-x-1-in-the.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-20T16:51:15.630Z'
+dateModified: '2017-02-20T16:59:02.423Z'
 title: Tame racing driver Chris Dymond’s custom Lightning X-1
 publisher:
   name: Chris Dymond Racing
