@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-20T18:36:41.412Z'
+datePublished: '2017-02-20T18:39:01.639Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-20T18:36:36.563Z'
+dateModified: '2017-02-20T18:38:58.739Z'
 title: Speed Metal Custom Lightning X-1
 publisher:
   name: SPN Speed Metal
