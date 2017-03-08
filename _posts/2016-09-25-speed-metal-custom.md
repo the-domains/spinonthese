@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-08T13:27:06.608Z'
+datePublished: '2017-03-08T13:29:41.385Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:27:06.007Z'
+dateModified: '2017-03-08T13:29:40.456Z'
 title: Speed Metal Custom Lightning X-1
 publisher: {}
 description: ''
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-A custom fabricated Lightning X-1 is the beating heart and soul of what will become your ultimate road bike.
+Custom fabricated Speed Metal Lightning X-1, like this one is the beating heart and soul of what will become your ultimate road race bike. And just like a race car, it's also the chassis upon which critically, the entire ride experience depends
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae2ad448-8bcf-4863-9eb8-6d858016c84d.jpg)
 
 This Lightning was finished with a Chris King Inset 7 headset in electric blue and the superstiff Fondriest TF2 carbon fork
