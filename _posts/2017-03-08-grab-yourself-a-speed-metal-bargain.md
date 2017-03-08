@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:48:52.760Z'
-datePublished: '2017-03-08T12:48:53.397Z'
+dateModified: '2017-03-08T12:50:45.392Z'
+datePublished: '2017-03-08T12:50:46.187Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -17,7 +17,9 @@ _type: Article
 ---
 # Rare Speed Metal at a bargain price!
 
-## Brand new 55cm SMC Lightning DX-1\. Fast road racer made for hydraulic disc braking and Di2 / eTap shifting. 
+## Brand new 55cm SMC Lightning DX-1\. Fast road racer made for high speed with all-day ride comfort.
+
+## Thru axles, inboard flat-mount hydraulic disc braking, Di2 / eTap shifting and a 1.5 inch taper fork complete the package. 
 
 ## Size 55cm / ML / medium large. One only!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc11ac7-0b3f-4657-a658-da76acdd47f2.jpg)
