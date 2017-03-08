@@ -1,15 +1,13 @@
 ---
-datePublished: '2017-03-08T13:18:37.579Z'
+datePublished: '2017-03-08T13:27:06.608Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:18:37.056Z'
+dateModified: '2017-03-08T13:27:06.007Z'
 title: Speed Metal Custom Lightning X-1
-publisher:
-  name: SPN Speed Metal
-  url: 'http://ridefullgas.com/custom-titanium/'
+publisher: {}
 description: ''
 starred: true
 datePublishedOriginal: '2016-11-03T20:09:42.122Z'
@@ -45,7 +43,8 @@ When I look at a bike, one of the first things I ask myself is this. Is it made 
 
 To me, a maker who goes to the considerable extra trouble of adding this seemingly insignificant pip is saying a great deal about how he or she approaches bike making.
 
-Simply put, the pip doesn't make your bike any easier for us to make. But it does make living with your bike easier for you. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82923e5-c4f8-4ed5-b114-8e6e93f00312.jpg)
+Simply put, the pip doesn't make your bike any easier for us to make. But it does make living with your bike easier for you.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82923e5-c4f8-4ed5-b114-8e6e93f00312.jpg)
 
 Ever need to pop your bike's rear wheel out for cleaning, routine service or simply to fit inside the boot of your car? No problem: slot your chain over the pip, and there's no longer any danger your chain will tangle or scratch the fancy paint job on your expensive carbon super bike.
 
