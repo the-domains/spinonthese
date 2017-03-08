@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-08T13:35:22.562Z'
+datePublished: '2017-03-08T13:40:25.317Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:35:21.374Z'
+dateModified: '2017-03-08T13:40:23.277Z'
 title: Speed Metal Custom Lightning X-1
 publisher: {}
 description: ''
@@ -33,9 +33,9 @@ This particular Lightning X-1 is my own, and I decided to match it to a Chris Ki
 
 All X-1's are engineered for optimal rider fit, laser-sharp precision handling, maximum all-terrain performance and ultimate all-day ride comfort. How is this magic combination possible in a single bike?
 
-The answer lies most probably in the carefully chosen combination of aerospace grade materials and the precision engineering we employ to shape each tube on every frame we craft. And perhaps also, the fanatical attention to detail we bring to every stage of each frame's design and fabrication.
+The answer lies in the combination of carefully chosen aerospace grade materials and precision engineering employed to shape and bend each tube on every frame we craft. Perhaps also, it's the fanatical attention to detail at every stage from conception, design and fabrication - all with one focus: to create the best bike ever, for this one customer and this one customer only. 
 
-Take our hallmark chain-pip as a small but very good example of our craft. You can see it in the photo below, protruding from the drive-side seat stay just above the chain as it passes over the cassette.
+Take our signature chain-pip as a small but nice example of both my bike engineering philosophy and craft. You can see it in this photo below, protruding from the drive-side seat stay just above the chain as it passes over the cassette.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f744f2-4f26-4a27-b056-b51205a0c024.jpg)
 
 Why is this tiny piece of meticulously machined 6-4 titanium beautifully welded onto every frame that has ever borne the Spin downtube marque? The answer is because, first and foremost, we are lifelong cyclists.
