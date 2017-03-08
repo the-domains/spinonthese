@@ -1,9 +1,11 @@
 ---
 inFeed: true
-description: Hit the button for full specification and pricing!
-dateModified: '2017-03-08T12:23:56.331Z'
-datePublished: '2017-03-08T12:23:57.028Z'
-title: Grab yourself a Speed Metal bargain!
+description: >-
+  £2349 including frame, Chris King Inset, Columbus Futura disc fork and
+  superlight carbon seatpost. 
+dateModified: '2017-03-08T12:27:58.238Z'
+datePublished: '2017-03-08T12:27:58.934Z'
+title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
 via: {}
@@ -24,11 +26,14 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/537f4b86-8ea7-49a2-a0b9-6cb18594872b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afea6eac-224e-461b-b82a-67ec7467bb86.jpg)
 
-# Grab yourself a Speed Metal bargain!
+# Rare Speed Metal at a bargain price!
 
-## Brand new road disc Lightning DX-1 - ML / medium large size. One only! Special Price.
-[Buy Me][0]
+## Brand new road disc Di2 / eTap ready Lightning DX-1\. 
 
-Hit the button for full specification and pricing!
+## Size 55cm / ML / medium large. One only! 
+
+£2349 including frame, Chris King Inset, Columbus Futura disc fork and superlight carbon seatpost. [Buy Me][0]
+
+Hit the button for full specifications for the frame and build options.
 
 [0]: http://ridefullgas.com/custom-titanium/
