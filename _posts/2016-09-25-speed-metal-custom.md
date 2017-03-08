@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-20T18:39:01.639Z'
+datePublished: '2017-03-08T13:18:37.579Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-20T18:38:58.739Z'
+dateModified: '2017-03-08T13:18:37.056Z'
 title: Speed Metal Custom Lightning X-1
 publisher:
   name: SPN Speed Metal
@@ -21,7 +21,10 @@ _type: Article
 # Speed Metal Custom Lightning X-1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1bb6520-495a-4b7a-a92e-8be6d5764e4c.jpg)
 
-A custom fabricated Lightning X-1 is the beating heart and soul of what will become your ultimate road bike. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae2ad448-8bcf-4863-9eb8-6d858016c84d.jpg)
+---
+
+A custom fabricated Lightning X-1 is the beating heart and soul of what will become your ultimate road bike.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae2ad448-8bcf-4863-9eb8-6d858016c84d.jpg)
 
 This Lightning was finished with a Chris King Inset 7 headset in electric blue and the superstiff Fondriest TF2 carbon fork
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea8857a2-dec0-4980-a0be-b28008ea08d9.jpg)
@@ -42,7 +45,9 @@ When I look at a bike, one of the first things I ask myself is this. Is it made 
 
 To me, a maker who goes to the considerable extra trouble of adding this seemingly insignificant pip is saying a great deal about how he or she approaches bike making.
 
-Simply put, the pip doesn't make your bike any easier for me to make. But it does make living with your bike easier. Ever need to pop your bike's rear wheel out for cleaning, routine service or simply to fit inside the boot of your car? No problem: slot your chain over the pip, and there's no longer any danger your chain will tangle or scratch the fancy paint job on your expensive carbon super bike.
+Simply put, the pip doesn't make your bike any easier for us to make. But it does make living with your bike easier for you. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82923e5-c4f8-4ed5-b114-8e6e93f00312.jpg)
+
+Ever need to pop your bike's rear wheel out for cleaning, routine service or simply to fit inside the boot of your car? No problem: slot your chain over the pip, and there's no longer any danger your chain will tangle or scratch the fancy paint job on your expensive carbon super bike.
 
 But wait - how many carbon superbikes with fragile and fancy paint finishes have a chain pip? Well, I'm still looking! But the pip comes standard on all the frames we make, to ease your bike life, as we're bike riders too.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3d2cdb0-1592-4db7-8511-026dcdea2cb9.jpg)
