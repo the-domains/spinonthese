@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   £2349 including frame, Chris King Inset, Columbus Futura disc fork and
   superlight carbon seatpost. 
-dateModified: '2017-03-08T12:27:58.238Z'
-datePublished: '2017-03-08T12:27:58.934Z'
+dateModified: '2017-03-08T12:28:19.366Z'
+datePublished: '2017-03-08T12:28:20.082Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -34,6 +34,6 @@ _type: Blurb
 
 £2349 including frame, Chris King Inset, Columbus Futura disc fork and superlight carbon seatpost. [Buy Me][0]
 
-Hit the button for full specifications for the frame and build options.
+Hit the button for full specifications for the frame and optional wheels, groupset and finishing kit.
 
 [0]: http://ridefullgas.com/custom-titanium/
