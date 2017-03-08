@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-03-08T12:09:45.419Z'
-datePublished: '2017-03-08T12:09:46.205Z'
+description: Hit the button for full specification and pricing!
+dateModified: '2017-03-08T12:23:56.331Z'
+datePublished: '2017-03-08T12:23:57.028Z'
 title: Grab yourself a Speed Metal bargain!
 author: []
 publisher: {}
@@ -29,8 +29,6 @@ _type: Blurb
 ## Brand new road disc Lightning DX-1 - ML / medium large size. One only! Special Price.
 [Buy Me][0]
 
----
-
-
+Hit the button for full specification and pricing!
 
 [0]: http://ridefullgas.com/custom-titanium/
