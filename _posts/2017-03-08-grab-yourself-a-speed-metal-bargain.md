@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:45:17.378Z'
-datePublished: '2017-03-08T12:45:18.125Z'
+dateModified: '2017-03-08T12:48:52.760Z'
+datePublished: '2017-03-08T12:48:53.397Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -21,12 +21,14 @@ _type: Article
 
 ## Size 55cm / ML / medium large. One only!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc11ac7-0b3f-4657-a658-da76acdd47f2.jpg)
+[Buy Me][0]
 
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a5b7ae-87ce-409e-942f-a2074a76dc7a.jpg)
 
-See the drawings above for full details on the size of this frame. Bars, stem and saddle height are as drawn. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb715237-1b71-4cfe-bedd-91e1a825dcc4.jpg)
+See the drawings above for full details on the size of this frame. Bars, stem and saddle height are for indication only, and are as originally drawn. Sizing suits any rider who would normally choose a frame with between 54 & 56cm top tube lengths.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb715237-1b71-4cfe-bedd-91e1a825dcc4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d157e032-0204-4362-bc06-50fa2597fd69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f237aea5-1333-4d9f-ab58-ebc294d57cc0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f982f71-b433-4401-b035-820e65994e5b.jpg)
