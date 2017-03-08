@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-08T13:42:47.091Z'
+datePublished: '2017-03-08T13:43:09.881Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:42:46.533Z'
+dateModified: '2017-03-08T13:43:09.212Z'
 title: Speed Metal Custom Lightning X-1
 publisher: {}
 description: ''
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-Custom fabricated Speed Metal Lightning X-1 - like my own bike shown here - is the beating heart and soul of what could become your ultimate road race bike. And just like a race car, it's also the chassis upon which, critically, the entire ride experience depends.
+Custom fabricated Speed Metal Lightning X-1 - like my own bike shown here on tour - is the beating heart and soul of what could become your ultimate road race bike. And just like a race car, it's also the chassis upon which, critically, the entire ride experience depends.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae2ad448-8bcf-4863-9eb8-6d858016c84d.jpg)
 
 There's simply no point in having the latest greatest groupset, wheels that cost three times as much as most bikes sold, or power measuring pedals or cranks, if all of this stuff is hanging off a frame that neither fits you like a glove, or is simply lacking in stiffness where stiffness is precisely what's most required, and comfort everywhere else. 
