@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T15:40:35.635Z'
-datePublished: '2017-03-08T15:40:37.948Z'
+dateModified: '2017-03-08T15:41:22.636Z'
+datePublished: '2017-03-08T15:41:23.756Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
