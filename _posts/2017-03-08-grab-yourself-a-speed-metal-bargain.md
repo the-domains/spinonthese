@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   £2349 including frame, Chris King Inset, Columbus Futura disc fork and
-  superlight carbon seatpost. 
-dateModified: '2017-03-08T12:28:19.366Z'
-datePublished: '2017-03-08T12:28:20.082Z'
+  superlight carbon seatpost. Regular price £2999.
+dateModified: '2017-03-08T12:29:17.546Z'
+datePublished: '2017-03-08T12:29:18.198Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -32,7 +32,8 @@ _type: Blurb
 
 ## Size 55cm / ML / medium large. One only! 
 
-£2349 including frame, Chris King Inset, Columbus Futura disc fork and superlight carbon seatpost. [Buy Me][0]
+£2349 including frame, Chris King Inset, Columbus Futura disc fork and superlight carbon seatpost. Regular price £2999\.
+[Buy Me][0]
 
 Hit the button for full specifications for the frame and optional wheels, groupset and finishing kit.
 
