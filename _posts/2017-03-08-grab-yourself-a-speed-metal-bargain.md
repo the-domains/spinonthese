@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:37:12.546Z'
-datePublished: '2017-03-08T12:37:13.369Z'
+dateModified: '2017-03-08T12:40:23.466Z'
+datePublished: '2017-03-08T12:40:24.285Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -32,9 +32,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b66f9b2b-cd4f-427c-b7ba-5fdcbc9bdcbe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd730e52-c3ec-4d3e-92c3-ef33579c7cd9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/537f4b86-8ea7-49a2-a0b9-6cb18594872b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afea6eac-224e-461b-b82a-67ec7467bb86.jpg)
 
-# Rare Speed Metal at a bargain price!
+# A late cancelled customer order means that this hunk of precision crafted Speed Metal is now available to one lucky customer at a fraction of its true cost.
 
 ## Brand new road disc Di2 / eTap ready Lightning DX-1\.
 
