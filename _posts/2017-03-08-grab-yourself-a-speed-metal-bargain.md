@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:40:23.466Z'
-datePublished: '2017-03-08T12:40:24.285Z'
+dateModified: '2017-03-08T12:41:48.082Z'
+datePublished: '2017-03-08T12:41:48.638Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -24,6 +24,7 @@ _type: Article
 
 ---
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a5b7ae-87ce-409e-942f-a2074a76dc7a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb715237-1b71-4cfe-bedd-91e1a825dcc4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d157e032-0204-4362-bc06-50fa2597fd69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e042c7a-aa1d-4dd3-9b34-7509e52888ce.jpg)
