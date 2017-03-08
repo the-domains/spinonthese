@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-08T13:40:25.317Z'
+datePublished: '2017-03-08T13:41:13.991Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:40:23.277Z'
+dateModified: '2017-03-08T13:41:13.434Z'
 title: Speed Metal Custom Lightning X-1
 publisher: {}
 description: ''
@@ -35,7 +35,7 @@ All X-1's are engineered for optimal rider fit, laser-sharp precision handling, 
 
 The answer lies in the combination of carefully chosen aerospace grade materials and precision engineering employed to shape and bend each tube on every frame we craft. Perhaps also, it's the fanatical attention to detail at every stage from conception, design and fabrication - all with one focus: to create the best bike ever, for this one customer and this one customer only. 
 
-Take our signature chain-pip as a small but nice example of both my bike engineering philosophy and craft. You can see it in this photo below, protruding from the drive-side seat stay just above the chain as it passes over the cassette.
+Take our signature chain-pip as a small but nice example of both my bike engineering philosophy and craft. You can see it in this photo below. It's that tiny thing protruding from the drive-side seat stay just above the chain as it passes over the cassette. What is it? And what's it for?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f744f2-4f26-4a27-b056-b51205a0c024.jpg)
 
 Why is this tiny piece of meticulously machined 6-4 titanium beautifully welded onto every frame that has ever borne the Spin downtube marque? The answer is because, first and foremost, we are lifelong cyclists.
