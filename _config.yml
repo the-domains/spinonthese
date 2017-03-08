@@ -75,7 +75,7 @@ description: >-
 purpose:
   - type: phone
     url: 'tel:+441789459193'
-    label: Gimme a call!
+    label: Call
   - type: contact
     url: 'mailto:spinfo@ridefullgas.com'
     label: Mail me!
