@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:09:22.691Z'
-datePublished: '2017-03-08T12:09:23.282Z'
+dateModified: '2017-03-08T12:09:45.419Z'
+datePublished: '2017-03-08T12:09:46.205Z'
 title: Grab yourself a Speed Metal bargain!
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-03-08-grab-yourself-a-speed-metal-bargain.md
 starred: false
 datePublishedOriginal: '2017-03-08T12:08:18.963Z'
-url: grab-yourself-a-speed-metal-bargain/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb715237-1b71-4cfe-bedd-91e1a825dcc4.jpg)
