@@ -1,21 +1,29 @@
 ---
 inFeed: true
-description: >-
-  £2349 including frame, Chris King Inset, Columbus Futura disc fork and
-  superlight carbon seatpost. Regular price £2999.
-dateModified: '2017-03-08T12:29:17.546Z'
-datePublished: '2017-03-08T12:29:18.198Z'
+description: ''
+dateModified: '2017-03-08T12:37:12.546Z'
+datePublished: '2017-03-08T12:37:13.369Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-03-08-grab-yourself-a-speed-metal-bargain.md
 starred: false
 datePublishedOriginal: '2017-03-08T12:08:18.963Z'
-_type: Blurb
+url: rare-speed-metal-at-a-bargain-price/index.html
+_type: Article
 
 ---
+# Rare Speed Metal at a bargain price!
+
+## Brand new 55cm SMC Lightning DX-1\. Fast road racer made for hydraulic disc braking and Di2 / eTap shifting. 
+
+## Size 55cm / ML / medium large. One only!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc11ac7-0b3f-4657-a658-da76acdd47f2.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb715237-1b71-4cfe-bedd-91e1a825dcc4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d157e032-0204-4362-bc06-50fa2597fd69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e042c7a-aa1d-4dd3-9b34-7509e52888ce.jpg)
@@ -28,9 +36,9 @@ _type: Blurb
 
 # Rare Speed Metal at a bargain price!
 
-## Brand new road disc Di2 / eTap ready Lightning DX-1\. 
+## Brand new road disc Di2 / eTap ready Lightning DX-1\.
 
-## Size 55cm / ML / medium large. One only! 
+## Size 55cm / ML / medium large. One only!
 
 £2349 including frame, Chris King Inset, Columbus Futura disc fork and superlight carbon seatpost. Regular price £2999\.
 [Buy Me][0]
