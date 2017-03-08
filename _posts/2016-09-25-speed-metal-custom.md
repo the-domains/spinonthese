@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-08T13:43:09.881Z'
+datePublished: '2017-03-08T13:45:23.219Z'
 sourcePath: _posts/2016-09-25-speed-metal-custom.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-08T13:43:09.212Z'
+dateModified: '2017-03-08T13:45:22.212Z'
 title: Speed Metal Custom Lightning X-1
 publisher: {}
 description: ''
@@ -38,9 +38,9 @@ The answer lies in the combination of carefully chosen aerospace grade materials
 Take our signature chain-pip as a small but nice example of both my bike engineering philosophy and craft. You can see it in this photo below. It's that tiny thing protruding from the drive-side seat stay just above the chain as it passes over the cassette. What is it? And what's it for?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f744f2-4f26-4a27-b056-b51205a0c024.jpg)
 
-Why is this tiny piece of meticulously machined 6-4 titanium beautifully welded onto every frame that has ever borne the Spin downtube marque? The answer is because, first and foremost, we are lifelong cyclists.
+Why is this tiny piece of meticulously machined 6-4 titanium beautifully welded onto every frame that's ever worn the Spin downtube marque? The answer is because, first and foremost, we are lifelong cyclists.
 
-We ride what we make. And that which we make, we demand performs superbly! But I'm not only talking about the ride. I'm talking about ownership: the quality of living with your ride - day in, day out - and your experience of acquiring your ride.
+We ride what we make. And that which we make, we demand performs superbly! But I'm not only talking about the ride. I'm talking about ownership: the quality of living with your ride - day in, day out - and also the experience you have of acquiring your ride. These are things that you may decide in relative haste, but have to live with for much longer. So naturally, I want your total experience to be fantastic. 
 
 When I look at a bike, one of the first things I ask myself is this. Is it made by someone who loves what they do, for the pure joy their craft can bring to others? Or is it made by a marketing company simply out to maximise profits? Or by someone who only makes bikes because it's the best job they can find at the moment?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd36e8f-516c-415c-b3e9-442381dd6c0e.jpg)
