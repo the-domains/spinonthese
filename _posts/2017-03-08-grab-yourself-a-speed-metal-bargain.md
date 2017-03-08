@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T12:51:33.547Z'
-datePublished: '2017-03-08T12:51:34.331Z'
+dateModified: '2017-03-08T12:53:29.484Z'
+datePublished: '2017-03-08T12:53:30.296Z'
 title: Rare Speed Metal at a bargain price!
 author: []
 publisher: {}
@@ -40,7 +40,7 @@ See the drawings above for full details on the size of this frame. Bars, stem an
 
 # A late cancellation on a customer order means that this hunk of precision crafted Speed Metal is now available at a fraction of its replacement cost.
 
-## Brand new road disc Di2 / eTap ready Lightning DX-1\.
+## Brand new road disc Di2 / eTap ready Lightning DX-1
 
 ## Size 55cm / ML / medium large. One only!
 
