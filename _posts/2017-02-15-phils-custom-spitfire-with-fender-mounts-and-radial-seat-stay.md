@@ -1,11 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T15:40:35.635Z'
-datePublished: '2017-03-08T15:40:37.919Z'
-title: >-
-  Custom Spitfire with fender mounts & radial stays, made to clear big fat
-  winter tyres
+dateModified: '2017-03-09T16:09:19.288Z'
+datePublished: '2017-03-09T16:09:20.038Z'
+title: Not just another boring "winter bike"...
 author: []
 publisher: {}
 via: {}
@@ -17,3 +15,5 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0d1c1c-c240-420d-8e73-4d73443bed06.jpg)
+
+# Not just another boring "winter bike"...
