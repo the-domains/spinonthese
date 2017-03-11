@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-11T09:40:04.479Z'
-datePublished: '2017-03-11T09:40:04.946Z'
-title: Bikes & Beer. A symbiotic relationship.
+dateModified: '2017-03-11T09:41:32.896Z'
+datePublished: '2017-03-11T09:41:33.813Z'
+title: Click the link for more of Neil’s Speed Metal collection
 author: []
 publisher: {}
 via: {}
@@ -24,7 +24,10 @@ _type: Article
 > Cheers
 > Neil
 
+## Click the link for more of Neil's Speed Metal collection
+
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cdfe48-1e5b-4b81-925a-11c0d309364c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3809bf6-c080-4105-b508-687169ea9a17.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee37f484-e82d-4f5d-b129-b8a5dc7b0282.jpg)
