@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-11T09:39:42.478Z'
-datePublished: '2017-03-11T09:39:43.169Z'
+dateModified: '2017-03-11T09:40:04.479Z'
+datePublished: '2017-03-11T09:40:04.946Z'
 title: Bikes & Beer. A symbiotic relationship.
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-11-bikes-and-beer-a-symbiotic-relationship.md
 starred: false
 datePublishedOriginal: '2017-03-11T09:39:43.169Z'
-sourcePath: _posts/2017-03-11-bikes-and-beer-a-symbiotic-relationship.md
 url: bikes-and-beer-a-symbiotic-relationship/index.html
 _type: Article
 
