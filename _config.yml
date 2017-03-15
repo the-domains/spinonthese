@@ -43,32 +43,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91fdba45-779c-4086-9c53-d492619c7374.gif">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/91fdba45-779c-4086-9c53-d492619c7374.gif
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 coverPrefs:
   filter: false
 description: >-
