@@ -1,4 +1,3 @@
-layout_spectrum: 0.3146938050787269
 typography_spectrum: 0.027393887875103714
 color:
   brandStrength: 0.32497406769064396
@@ -11,9 +10,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.3146938050787269
 analytics:
   google: UA-31654273-4
 author:
@@ -42,6 +40,9 @@ navigation:
   - name: Lightning Road Race X-1
     id: 416601c8-a81d-42fe-908a-e325fc309124
     type: content
+  - name: Custom Carbon Frames
+    id: 0eb537bf-b5d2-4151-a872-2b629256d595
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64353fed-4aea-45d9-be54-241756cb2c79.png
 title: Titanium bike. Custom made.
@@ -54,27 +55,29 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ebec2b6-51e6-4643-adf9-63dbbe6dac81.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: >-
   Speed Metal is custom crafted titanium made perfect for you and no other
   rider. From drawing board to your ultimate N+1 in as little as 6 weeks. Use
-  these buttons to get in touch and let's get your best bike ever out of your
-  head and onto my drawing board.
+  these buttons to get in touch and we'll get the best bike ever out of your
+  imagination and onto my drawing board.
 purpose:
   - type: phone
     url: 'tel:+441789459193'
