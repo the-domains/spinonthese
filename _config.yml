@@ -25,7 +25,7 @@ navigation:
   - name: News
     url: 'http://spinonthese.com/'
     type: external
-  - name: Custom Wheels
+  - name: Fast Wheels
     url: 'http://spinonthese.com/hey-fatboy'
     type: external
   - name: Shop
