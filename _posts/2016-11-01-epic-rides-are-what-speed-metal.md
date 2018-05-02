@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-05-02T13:26:26.157Z'
+datePublished: '2018-05-02T13:30:33.295Z'
 sourcePath: _posts/2016-11-01-epic-rides-are-what-speed-metal.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-05-02T13:26:22.598Z'
+dateModified: '2018-05-02T13:30:31.467Z'
 title: Ride the road less travelled
 publisher: {}
 description: ''
