@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Dani_Christmas/status/833038210968190976'
-datePublished: '2018-05-02T13:26:25.958Z'
-dateModified: '2018-05-02T13:26:22.598Z'
+datePublished: '2018-05-02T13:30:33.325Z'
+dateModified: '2018-05-02T13:30:31.467Z'
 title: >-
   Fourth consecutive euro elite road season racing the same bike… it can only be
   #SpeedMetal
