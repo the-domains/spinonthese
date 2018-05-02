@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-02T13:22:29.035Z'
-datePublished: '2018-05-02T13:22:31.754Z'
+dateModified: '2018-05-02T13:26:22.598Z'
+datePublished: '2018-05-02T13:26:26.240Z'
 title: Not just another boring "winter bike"...
 author: []
 publisher: {}
