@@ -26,7 +26,7 @@ navigation:
     url: 'http://spinonthese.com/'
     type: external
   - name: Fast Wheels
-    url: 'http://spinonthese.com/hey-fatboy'
+    url: 'http://spinonthese.com'
     type: external
   - name: Shop
     url: 'http://ridefullgas.com/'
